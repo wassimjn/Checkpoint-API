@@ -1,0 +1,41 @@
+.userList{
+  background-image: url("https://play-lh.googleusercontent.com/Pf_I48ItRKZPYxV9SnhJxP4lcrmHkLlmpzyjfu0Ilx8yGL3eQoW9rqYlWwk9nKZG-uYU=w800-h500-rw");
+  background-repeat:unset ;
+  background-size:cover;
+  
+ 
+}
+.userCard{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+  width: 100%;
+
+}
+.userCard > *{ margin: 30px 0}
+h1:hover{
+  color: red;
+}
+.h1{
+  display: flex;
+  justify-content: center;
+  padding-top: 70px;
+  margin-right: 43%;
+  color: whitesmoke;
+  
+}
+.card{
+display: flex;
+justify-content: center;
+}
+.title_img{
+  width: 130px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.list_title{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 90px;
+  
+}
